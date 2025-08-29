@@ -1,0 +1,5 @@
+{% comment %}
+Shim for themes/pages that call `{% include base_path %}`.
+Outputs the site.baseurl (or nothing) so links work in both user and project pages.
+{% endcomment %}
+{% if site.baseurl %}{{ site.baseurl }}{% endif %}
