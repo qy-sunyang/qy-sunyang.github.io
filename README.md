@@ -1,3 +1,5 @@
-# dingshandeng.github.io
+# yangsun.github.io
 
-Hi, Welcome to Personal Website for Dingshan Deng
+Hi, Welcome to Personal Website for Yang Sun
+
+[[https://qy-sunyang.github.io/]]
