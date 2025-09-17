@@ -14,8 +14,11 @@ classes: wide
 .page__content h2 { font-size: 1.6rem; }
 </style> -->
 
+- [Topic 1 — AGN & Galaxy Co‑evolution](#topic-SMBH&galaxy)
+- [Topic 2 — Galactic Feedback on galaxy fast quenching](#topic-quenching)
 
-## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time
+
+## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time {#topic-SMBH&galaxy}
 The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass and host galaxy mass (or central velocity dispersion) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to z~3. My research focus on when and how the SMBH-galaxy co-evolution happens in the early Universe by studying the BH mass-galaxy stellar mass relation at different cosmic epoch.
 
 #### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$ [Sun et al. 2025a](https://iopscience.iop.org/article/10.3847/1538-4357/ad973b)
@@ -36,7 +39,7 @@ With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spe
 Recent discovery of high-z ``overmassive'' AGN by JWST suggests that the mass scaling relation has significant evolution at $z>4$. We test this possibility by (1) determining the preferred mass scaling relation among those proposed locally, and (2) providing uniform estimates of host galaxy stellar mass. These steps reduce the prominence of the reported evolution. We then we applied the same forward-modelling algorithm built in Sun et al. 2025a to account for observational biases. We still find a significant increase over the local scaling relation in black-hole-to-galaxy mass ratio for $z>4$ SMBHs in very low-mass galaxies. However, similarly high values of black-hole-to-galaxy mass ratio are also found in low-mass galaxies at $z\sim0.5--3$, which may be common at cosmic noon. Nonetheless, galaxies with similar behavior are rare locally and not accounted for in the local scaling relations. In contrast, $z\sim6$ quasars can have black-hole-to-galaxy mass ratio well above the value given by the local relation, but they can be explained as extreme cases still within the scaling relation for their higher-mass host galaxies. Black holes in some of them and in the low-mass systems may be undergoing episodes of very high accretion that result in high black-hole-to-galaxy mass ratio but that will be followed by quiescent periods when growth of the host drives the systems toward more typical black-hole-to-galaxy mass ratio values.
 
 
-## Topic 2: How does AGN/SF feedback contribute on galaxy quenching?
+## Topic 2: How does AGN/SF feedback contribute on galaxy quenching? {#topic-quenching}
 AGN feedback has been considered as one of the key physical mechanism linking the growth of SMBH and host galaxy. Moreover, galactic feedback itself, performed as outflows, offers an efficient and fast way to shut down the star formation, transiting blue star-forming galaxies to red dead galaxies. To understand how feedback work on regulating the SMBH and galaxy growth, and galaxy quenching, it's crucial to study outflows properties along the galaxy evolutionary sequence, espeically at the quenching phase.
 
 
