@@ -5,7 +5,8 @@ permalink: /research/
 use_math: true
 ---
 ## Extreme Neutral Outflow in an Inactive Quenching Galaxy at z~1.3 (Sun et al. 2025c)
-In this work, we report a substantial sodium doublet (Na D)-traced neutral outflow in a quiescent galaxy JADES-GS-206183 at $z=1.317$ in GOODS-S field. Its JWST NIRSpec/MSA spectrum shows a significantly blueshifted and deep Na D absorption, revealing a neutral outflow with a velocity of $v_\text{out}=828^{+79}_{-49}\,\mathrm{km\,s^{-1}}$ and a mass outflow rate of $\log(\dot{M}$$_\text{out})$
+In this work, we report a substantial sodium doublet (Na D)-traced neutral outflow in a quiescent galaxy JADES-GS-206183 at $z=1.317$ in GOODS-S field. Its JWST NIRSpec/MSA spectrum shows a significantly blueshifted and deep Na D absorption, revealing a neutral outflow with a velocity of $v_\text{out}=828^{+79}_{-49}\,\mathrm{km\,s^{-1}}$ and a mass outflow rate of $\log(\dot{M})$
+<!-- _\text{out})$ -->
 <!-- (\dot{M}_\text{out})$ -->
 <!-- /\mathrm{M_{\odot}\,yr^{-1}})=2.40^{+0.11}_{-0.16}$,  -->
 <!-- and a energy outflow rate of $\mathrm{\log(\dot{E}_\text{out}/erg\,s^{-1})=43.73^{+0.11}_{-0.12}}$. -->
