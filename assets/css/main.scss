@@ -2,7 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minimal-mistakes/skins/air";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
 /* Global type tweaks */
