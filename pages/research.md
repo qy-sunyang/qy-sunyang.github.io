@@ -18,9 +18,7 @@ The co-evolution of galaxies and central supermassive black holes (SMBH) has bee
 %}
 
 
-With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the mass scaling relation, and the errors in mass measurements, we find no significant difference in the $M_{BH}$/
-
-$M_{*}$ ratio for $2.5<z<4$ compared to that at lower redshifts ($1<z<2.5$), suggesting no evolution of the $M_{BH}$-$M_{*}$ relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$. 
+With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the mass scaling relation, and the errors in mass measurements, we find no significant difference in the $M_{BH}$/$M_{*}$ ratio for $1<z<4$ compared to that at lower redshifts, suggesting no evolution of the mass scaling relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$.
 
 
 ## How does AGN/SF feedback contribute on galaxy quenching?
