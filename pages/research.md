@@ -3,7 +3,17 @@ title: Research
 layout: single
 permalink: /research/
 use_math: true
+classes: wide
 ---
+
+<style>
+/* paragraph text */
+.page__content p { font-size: 1.05rem; line-height: 1.8; }
+/* headings (tune as you like) */
+.page__content h1 { font-size: 2rem; }
+.page__content h2 { font-size: 1.6rem; }
+</style>
+
 
 ## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time
 The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass and host galaxy mass (or central velocity dispersion) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to z~3. My research focus on when and how the SMBH-galaxy co-evolution happens in the early Universe by studying the BH mass-galaxy stellar mass relation at different cosmic epoch.
