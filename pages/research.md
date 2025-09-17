@@ -6,13 +6,13 @@ use_math: true
 classes: wide
 ---
 
-<style>
+<!-- <style>
 /* paragraph text */
 .page__content p { font-size: 1.05rem; line-height: 1.8; }
 /* headings (tune as you like) */
 .page__content h1 { font-size: 2rem; }
 .page__content h2 { font-size: 1.6rem; }
-</style>
+</style> -->
 
 
 ## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time
