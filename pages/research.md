@@ -2,8 +2,7 @@
 title: Research
 layout: single
 permalink: /research/
-head_scripts:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+use_math: true
 ---
 ## Extreme Neutral Outflow in an Inactive Quenching Galaxy at z~1.3 
 We have discovered a substantial sodium doublet (Na D) -traced neutral outflow in a quiescent galaxy JADES-GS-206183 at $z=1.317$ in GOODS-S field. 
