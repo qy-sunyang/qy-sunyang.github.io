@@ -35,6 +35,15 @@ The co-evolution of galaxies and central supermassive black holes (SMBH) has bee
 With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the mass scaling relation, and the errors in mass measurements, we find no significant difference in the black-hole-to-galaxy mass ratio of for $1<z<4$ compared to that at lower redshifts, suggesting no evolution of the mass scaling relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$.
 
 #### Evolution of the $M_{BH}$--$M_{*}$ Relation from $z\sim6$ to the Present Epoch
+
+<div style="max-width: 60%; margin: 0 auto;">
+  {% include figure
+     image_path="/assets/images/paper_figures/mass_scaling_z6.jpg"
+     alt="mass scaling highz"
+     popup=true
+  %}
+</div>
+
 Recent discovery of high-z ``overmassive'' AGN by JWST suggests that the mass scaling relation has significant evolution at $z>4$. We test this possibility by (1) determining the preferred mass scaling relation among those proposed locally, and (2) providing uniform estimates of host galaxy stellar mass. These steps reduce the prominence of the reported evolution. We then we applied the same forward-modelling algorithm built in Sun et al. 2025a to account for observational biases. We still find a significant increase over the local scaling relation in black-hole-to-galaxy mass ratio for $z>4$ SMBHs in very low-mass galaxies. However, similarly high values of black-hole-to-galaxy mass ratio are also found in low-mass galaxies at $z\sim0.5--3$, which may be common at cosmic noon. Nonetheless, galaxies with similar behavior are rare locally and not accounted for in the local scaling relations. In contrast, $z\sim6$ quasars can have black-hole-to-galaxy mass ratio well above the value given by the local relation, but they can be explained as extreme cases still within the scaling relation for their higher-mass host galaxies. Black holes in some of them and in the low-mass systems may be undergoing episodes of very high accretion that result in high black-hole-to-galaxy mass ratio but that will be followed by quiescent periods when growth of the host drives the systems toward more typical black-hole-to-galaxy mass ratio values.
 
 
