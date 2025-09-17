@@ -14,11 +14,11 @@ classes: wide
 .page__content h2 { font-size: 1.6rem; }
 </style> -->
 
-- [Topic 1 — AGN & Galaxy Co‑evolution](#topic-SMBH&galaxy)
+- [Topic 1 — AGN & Galaxy Co‑evolution](#topic-SMBHgalaxy)
 - [Topic 2 — Galactic Feedback on galaxy fast quenching](#topic-quenching)
 
 
-## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time {: #topic-SMBH&galaxy}
+## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time {: #topic-SMBHgalaxy}
 The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass and host galaxy mass (or central velocity dispersion) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to z~3. My research focus on when and how the SMBH-galaxy co-evolution happens in the early Universe by studying the BH mass-galaxy stellar mass relation at different cosmic epoch.
 
 #### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$ [Sun et al. 2025a](https://iopscience.iop.org/article/10.3847/1538-4357/ad973b)
