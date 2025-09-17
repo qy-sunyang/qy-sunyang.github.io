@@ -8,7 +8,7 @@ use_math: true
 ## How does galactic feebcck contribute on galaxy quenching?
 Galactic feedback, performed as outflows, offers an efficient and fast way to shut down the star formation, transiting blue star-forming galaxies to red dead galaxies. To understand how feedback work on galaxy quenching, it's crucial to study outflows properties along the galaxy evolutionary sequence, espeically at the quenching phase.
 
-### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence (Sun et al. 2024)
+### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence [Sun et al. 2024](https://academic.oup.com/mnras/article/528/4/5783/7601370)
 
 {% include figure
    image_path="/assets/images/paper_figures/NaD_local.jpg"
@@ -30,9 +30,3 @@ bulk flows across this sequence, mostly at higher host stellar masses. Along thi
 %}
 In this work, we report a substantial sodium doublet (Na D)-traced neutral outflow in a quiescent galaxy JADES-GS-206183 at $z=1.317$ in GOODS-S field. Its JWST NIRSpec/MSA spectrum shows a significantly blueshifted and deep Na D absorption, revealing a neutral outflow with a mass outflow rate exceeds that of any neutral outflows identified previously beyond $z\sim1$ by the same line diagnostic and is comparable with those in local galaxies with intensive star formation or luminous AGN. Surprisingly, JADES-GS-206183's current star formation rate is relatively low, making it 0.5 dex below the main sequence. However, the best-fit SED modeling of this galaxy, based on its multi-band photometry from HST/ACS to JWST/NIRCam and the VLT/MUSE spectrum, suggests that the host galaxy might just have started to rejuvenate within the recent 10 Myr, after a quiescent period lasting about one Gyr or more. More surprisingly, rest-frame optical lines indicate that the current AGN activity of JADES-GS-206183, if present, is also weak. The results then demonstrate that the Na D outflow in JADES-GS-206183 is highly unlikely to be driven by current rejuvenated star formation or nuclear activity; instead, this outflow may be a long-lasting fossil one driven by past AGN activity, potentially co-triggered with the early phase of rejuvenation.
 
-## Highlights
-- **blablabla** — blablabla.
-
-## Publications (selected)
-- Author, *Year*, **Title**, *Journal*. [ADS]()[arXiv]()
-- Author, *Year*, **Title**, *Journal*. [ADS]()[arXiv]()
