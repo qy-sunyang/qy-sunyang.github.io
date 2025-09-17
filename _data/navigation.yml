@@ -3,5 +3,5 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Photos"
-    url: /photos/
+  # - title: "Photos"
+  #   url: /photos/
