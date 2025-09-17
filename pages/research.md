@@ -8,7 +8,7 @@ use_math: true
 ## Supermassive black hole and galaxy co-evolution across cosmic time
 The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass and host galaxy mass (or central velocity dispersion) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to z~3. My research focus on when and how the SMBH-galaxy co-evolution happens in the early Universe by studying the BH mass-galaxy stellar mass relation at different cosmic epoch.
 
-### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$ [Sun et al. 2025a](https://iopscience.iop.org/article/10.3847/1538-4357/ad973b)
+#### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$ [Sun et al. 2025a](https://iopscience.iop.org/article/10.3847/1538-4357/ad973b)
 
 {% include figure
    image_path="/assets/images/paper_figures/mass_scaling_z4.jpg"
@@ -24,7 +24,7 @@ With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spe
 ## How does AGN/SF feedback contribute on galaxy quenching?
 AGN feedback has been considered as one of the key physical mechanism linking the growth of SMBH and host galaxy. Moreover, galactic feedback itself, performed as outflows, offers an efficient and fast way to shut down the star formation, transiting blue star-forming galaxies to red dead galaxies. To understand how feedback work on regulating the SMBH and galaxy growth, and galaxy quenching, it's crucial to study outflows properties along the galaxy evolutionary sequence, espeically at the quenching phase.
 
-### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence [Sun et al. 2024](https://academic.oup.com/mnras/article/528/4/5783/7601370)
+#### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence [Sun et al. 2024](https://academic.oup.com/mnras/article/528/4/5783/7601370)
 
 {% include figure
    image_path="/assets/images/paper_figures/NaD_local.jpg"
@@ -36,7 +36,7 @@ AGN feedback has been considered as one of the key physical mechanism linking th
 Using the SDSS survey, we built up a potential evoluntionary seuqence in the local universe by selecting starburst, post-starburst, and quiescent galaxies on the H$\delta$ index -- H$\alpha$ EW diagram. We measured velocity offsets in the Sodium doublet (Na D) interstellar medium absorption lines to track how neutral galactic winds change as their host galaxies evolve. We detect
 bulk flows across this sequence, mostly at higher host stellar masses. Along this sequence, the outflow fraction and the mean velocity offset both decrease. Even within the post-starburst sample, wind speed decreases with time elapsed since the starburst ended. These results reveal that outflows diminish as galaxies age. For post-starbursts, there is evidence for an AGN contribution, especially to the speediest outflows.
 
-### Extreme Neutral Outflow in an Inactive Quenching Galaxy at z~1.3 [Sun et al. 2025c](https://arxiv.org/abs/2504.14682)
+#### Extreme Neutral Outflow in an Inactive Quenching Galaxy at z~1.3 [Sun et al. 2025c](https://arxiv.org/abs/2504.14682)
 
 {% include figure
    image_path="/assets/images/paper_figures/NaD_206183.jpg"
