@@ -10,7 +10,17 @@ The co-evolution of galaxies and central supermassive black holes (SMBH) has bee
 
 ### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$
 
-With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the mass scaling relation, and the errors in mass measurements, we find no significant difference in the $M_{BH}$/$M_{*}$ ratio for $2.5<z<4$ compared to that at lower redshifts ($1<z<2.5$), suggesting no evolution of the $M_{BH}$-$M_{*}$ relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$. 
+{% include figure
+   image_path="/assets/images/paper_figures/mass_scaling_z4.jpg"
+   alt="mass scaling lowz"
+   caption="**Figure 1.**"
+   width="820"
+%}
+
+
+With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the mass scaling relation, and the errors in mass measurements, we find no significant difference in the $M_{BH}$/
+
+$M_{*}$ ratio for $2.5<z<4$ compared to that at lower redshifts ($1<z<2.5$), suggesting no evolution of the $M_{BH}$-$M_{*}$ relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$. 
 
 
 ## How does AGN/SF feedback contribute on galaxy quenching?
@@ -21,7 +31,7 @@ AGN feedback has been considered as one of the key physical mechanism linking th
 {% include figure
    image_path="/assets/images/paper_figures/NaD_local.jpg"
    alt="Na D outflow local"
-   caption="**Figure 1.**"
+   caption="**Figure 3.**"
    width="820"
 %}
 
@@ -33,7 +43,7 @@ bulk flows across this sequence, mostly at higher host stellar masses. Along thi
 {% include figure
    image_path="/assets/images/paper_figures/NaD_206183.jpg"
    alt="Na D outflow 206183"
-   caption="**Figure 2.**"
+   caption="**Figure 4.**"
    width="820"
 %}
 In this work, we report a substantial sodium doublet (Na D)-traced neutral outflow in a quiescent galaxy JADES-GS-206183 at $z=1.317$ in GOODS-S field. Its JWST NIRSpec/MSA spectrum shows a significantly blueshifted and deep Na D absorption, revealing a neutral outflow with a mass outflow rate exceeds that of any neutral outflows identified previously beyond $z\sim1$ by the same line diagnostic and is comparable with those in local galaxies with intensive star formation or luminous AGN. Surprisingly, JADES-GS-206183's current star formation rate is relatively low, making it 0.5 dex below the main sequence. However, the best-fit SED modeling of this galaxy, based on its multi-band photometry from HST/ACS to JWST/NIRCam and the VLT/MUSE spectrum, suggests that the host galaxy might just have started to rejuvenate within the recent 10 Myr, after a quiescent period lasting about one Gyr or more. More surprisingly, rest-frame optical lines indicate that the current AGN activity of JADES-GS-206183, if present, is also weak. The results then demonstrate that the Na D outflow in JADES-GS-206183 is highly unlikely to be driven by current rejuvenated star formation or nuclear activity; instead, this outflow may be a long-lasting fossil one driven by past AGN activity, potentially co-triggered with the early phase of rejuvenation.
