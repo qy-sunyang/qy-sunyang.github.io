@@ -42,6 +42,6 @@ permalink: /publications/
 19. Ji, Z., Williams, C. C., Rieke, G. H., **including Sun, Y.**, et al. (2024), Extended hot dust emission around the earliest massive quiescent galaxy, arXiv e-prints, arXiv:2409.17233. 
 20. Wevers, T., Coughlin, E. R., Pasham, D. R.,**including Sun, Y.**, et al. (2023), Live to Die Another Day: The Rebrightening of AT 2018fyk as a Repeating Partial Tidal Disruption Event, The Astrophysical Journal, 942, L33.
 
-## Publications (selected)
+<!-- ## Publications (selected)
 - Author, *Year*, **Title**, *Journal*. [ADS]()[arXiv]()
-- Author, *Year*, **Title**, *Journal*. [ADS]()[arXiv]()
+- Author, *Year*, **Title**, *Journal*. [ADS]()[arXiv]() -->
