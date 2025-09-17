@@ -6,13 +6,15 @@ use_math: true
 ---
 
 ## Supermassive black hole and galaxy co-evolution across cosmic time
-The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass ($M_{BH}$) and host galaxy mass ($M_{*}$) (or central velocity dispersion $\sigma$) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to $z\sim3$. My research focus on how the SMBH-galaxy co-evolution happens in the early Universe by studying the $M_{BH}$--$M_{*}$ relation at different cosmic epoch.
+The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass ($M_{BH}$) and host galaxy mass ($M_{*}$) (or central velocity dispersion) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to z~3. My research focus on how the SMBH-galaxy co-evolution happens in the early Universe by studying the BH mass-galaxy stellar mass relation at different cosmic epoch.
 
 ### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$
 
+With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the $M_{BH}$--$M_{*}$ relation, and the errors in mass measurements, we find no significant difference in the $M_{BH}$/$M_{*}$ ratio for $2.5<z<4$ compared to that at lower redshifts ($1<z<2.5$), suggesting no evolution of the $M_{BH}$--$M_{*}$ relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$. 
+
 
 ## How does AGN/SF feedback contribute on galaxy quenching?
-Galactic feedback, performed as outflows, offers an efficient and fast way to shut down the star formation, transiting blue star-forming galaxies to red dead galaxies. To understand how feedback work on galaxy quenching, it's crucial to study outflows properties along the galaxy evolutionary sequence, espeically at the quenching phase.
+AGN feedback has been considered as one of the key physical mechanism linking the growth of SMBH and host galaxy. Moreover, galactic feedback itself, performed as outflows, offers an efficient and fast way to shut down the star formation, transiting blue star-forming galaxies to red dead galaxies. To understand how feedback work on regulating the SMBH and galaxy growth, and galaxy quenching, it's crucial to study outflows properties along the galaxy evolutionary sequence, espeically at the quenching phase.
 
 ### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence [Sun et al. 2024](https://academic.oup.com/mnras/article/528/4/5783/7601370)
 
