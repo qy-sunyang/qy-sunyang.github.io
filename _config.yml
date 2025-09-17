@@ -66,5 +66,6 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+
 # SEO
 # logo: /assets/images/avatar.png
