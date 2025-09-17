@@ -21,7 +21,7 @@ classes: wide
 ## Topic 1: Supermassive black hole and galaxy co-evolution across cosmic time {#topic-SMBHgalaxy}
 The co-evolution of galaxies and central supermassive black holes (SMBH) has been observationally confirmed by the strong BH mass and host galaxy mass (or central velocity dispersion) correlation in the local Universe and the similar cosmic evolution of star formation rate density and BH accretion rate density up to z~3. My research focus on when and how the SMBH-galaxy co-evolution happens in the early Universe by studying the BH mass-galaxy stellar mass relation at different cosmic epoch.
 
-#### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$ [Sun et al. 2025a](https://iopscience.iop.org/article/10.3847/1538-4357/ad973b)
+#### No Evidence for a Significant Evolution of $M_{BH}$--$M_{*}$ Relation in Massive Galaxies up to $z\sim4$ [(Sun et al. 2025a)](https://iopscience.iop.org/article/10.3847/1538-4357/ad973b)
 
 <div style="max-width: 60%; margin: 0 auto;">
   {% include figure
@@ -34,7 +34,7 @@ The co-evolution of galaxies and central supermassive black holes (SMBH) has bee
 
 With a combination of JWST Near Infrared Camera (NIRCam)/wide field slitless spectroscopy (WFSS) from FRESCO, CONGRESS and deep multiband NIRCam/image data from JADES in the GOODS fields, we extended the study the black-hole-to-galaxy mass relation up to $z\sim4$. After identifying 18 broad-line active galactic nuclei (AGNs) at $1<z<4$ (8 at $z>2.5$) from the WFSS data, we measure their black hole masses based on broad near-infrared lines (Pa$\alpha$, Pa$\beta$, and He I), and constrain their stellar masses from AGN--galaxy image decomposition or spectral energy distribution decomposition. Taking account of the observational biases, the intrinsic scatter of the mass scaling relation, and the errors in mass measurements, we find no significant difference in the black-hole-to-galaxy mass ratio of for $1<z<4$ compared to that at lower redshifts, suggesting no evolution of the mass scaling relation at $\log(M_{*}/M_\odot)>10$ up to $z\sim4$.
 
-#### Evolution of the $M_{BH}$--$M_{*}$ Relation from $z\sim6$ to the Present Epoch
+#### Evolution of the $M_{BH}$--$M_{*}$ Relation from $z\sim6$ to the Present Epoch [(Sun et al. 2025b)](https://iopscience.iop.org/article/10.3847/1538-4357/adc250)
 
 <div style="max-width: 60%; margin: 0 auto;">
   {% include figure
@@ -51,7 +51,7 @@ Recent discovery of high-z ``overmassive'' AGN by JWST suggests that the mass sc
 AGN feedback has been considered as one of the key physical mechanism linking the growth of SMBH and host galaxy. Moreover, galactic feedback itself, performed as outflows, offers an efficient and fast way to shut down the star formation, transiting blue star-forming galaxies to red dead galaxies. To understand how feedback work on regulating the SMBH and galaxy growth, and galaxy quenching, it's crucial to study outflows properties along the galaxy evolutionary sequence, espeically at the quenching phase.
 
 
-#### Extreme Neutral Outflow in an Inactive Quenching Galaxy at z~1.3 [Sun et al. 2025c](https://arxiv.org/abs/2504.14682)
+#### Extreme Neutral Outflow in an Inactive Quenching Galaxy at z~1.3 [(Sun et al. 2025c)](https://arxiv.org/abs/2504.14682)
 
 
 <div style="max-width: 60%; margin: 0 auto;">
@@ -66,7 +66,7 @@ In this work, we report a substantial sodium doublet (Na D)-traced neutral outfl
 
 
 
-#### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence [Sun et al. 2024](https://academic.oup.com/mnras/article/528/4/5783/7601370)
+#### Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence [(Sun et al. 2024)](https://academic.oup.com/mnras/article/528/4/5783/7601370)
 
 <div style="max-width: 60%; margin: 0 auto;">
   {% include figure
