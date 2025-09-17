@@ -1,6 +1,8 @@
 ---
 title: Research
+layout: single
 permalink: /research/
+mathjax: true
 ---
 
 <!-- MathJax v3 for this page only -->
