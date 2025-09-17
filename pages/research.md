@@ -27,7 +27,6 @@ The co-evolution of galaxies and central supermassive black holes (SMBH) has bee
   {% include figure
      image_path="/assets/images/paper_figures/mass_scaling_z4.jpg"
      alt="mass scaling lowz"
-     caption="**Figure 1. Left: Summary of the black-hole-to-galaxy mass ratio from the local Universe to $z=7$. Right: The distributions on the $M_{BH}$--$M_{*}$ diagram at $1 < z < 4$ based on the assumption of local mass scaling relation. The yellow stars represent the broad-line AGN identified in this work, and the contours show the distribution predicted by our forward modelling that includes both errors and biases."
      popup=true
   %}
 </div>
@@ -50,7 +49,6 @@ AGN feedback has been considered as one of the key physical mechanism linking th
   {% include figure
      image_path="/assets/images/paper_figures/NaD_206183.jpg"
      alt="Na D outflow 206183"
-     caption="**Figure 3.**"
      popup=true
   %}
 </div>
@@ -65,7 +63,6 @@ In this work, we report a substantial sodium doublet (Na D)-traced neutral outfl
   {% include figure
      image_path="/assets/images/paper_figures/NaD_local.jpg"
      alt="Na D outflow local"
-     caption="**Figure 4.**"
      popup=true
   %}
 </div>
